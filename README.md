@@ -1,2 +1,2 @@
 # python-homework
-python.sariq.dev
+python.sariq.dev bo'yicha topshiriqlar uchun kodlar
